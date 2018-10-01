@@ -22,4 +22,5 @@ https://leetcode.com/problemset/top-100-liked-questions/
 8. Q15:3Sum - 2018/09/30
 9. Q17:Letter Combinations of a Phone Number - 2018/09/30
 10. Q19:Remove Nth Node From End of List - 2018/10/01
+11. Q20:Valid Parentheses - 2018/10/01
 
