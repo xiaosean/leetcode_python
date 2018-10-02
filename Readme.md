@@ -25,3 +25,4 @@ https://leetcode.com/problemset/top-100-liked-questions/
 11. Q20:Valid Parentheses - 2018/10/01
 12. Q21:Merge Two Sorted Lists - 2018/10/01
 13. Q22:Generate Parentheses - 2018/10/01
+14. Q23:Merge k Sorted Lists - 2018/10/02
