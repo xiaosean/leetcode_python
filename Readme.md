@@ -8,24 +8,25 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 # TODO:
 - [ ] Q4: Complexity not O(log (m+n))
+- [ ] Q33: BTS problem
 
-
-
+## 目前進度: 16/100
 # Log:
 | Date | Changes |
 |------|----------------------------|
-| 2018.10.04 | 15. Q32:Longest Valid Parentheses |
-| 2018.10.02 | 14. Q23:Merge k Sorted Lists |
-| 2018.10.01 | 13. Q22:Generate Parentheses |
-|            | 12. Q21:Merge Two Sorted Lists |
-|            | 11. Q20:Valid Parentheses |
-|            | 10. Q19:Remove Nth Node From End of List |
-| 2018.09.30 | 9. Q17:Letter Combinations of a Phone Number |
-|            | 8. Q15:3Sum |
-| 2018.09.29 | 7. Q11:Container With Most Water |
-|            | 6. Q10:Regular Expression Matching |
-| 2018.09.28 | 5. Q5:Longest Palindromic Substring |Characters |
-|            | 4. Q4:Median of Two Sorted Arrays - todo fixed |
-|            | 3. Q3:Longest Substring Without Repeating 
-| 2018.09.27 | 2. Q2:Add Two Numbers |
-|            | 1. Q1:Two Sum |
+| 2018.10.05 | Q35:Search Insert Position |
+| 2018.10.04 | Q32:Longest Valid Parentheses |
+| 2018.10.02 | Q23:Merge k Sorted Lists |
+| 2018.10.01 | Q22:Generate Parentheses |
+|            | Q21:Merge Two Sorted Lists |
+|            | Q20:Valid Parentheses |
+|            | Q19:Remove Nth Node From End of List |
+| 2018.09.30 | Q17:Letter Combinations of a Phone Number |
+|            | Q15:3Sum |
+| 2018.09.29 | Q11:Container With Most Water |
+|            | Q10:Regular Expression Matching |
+| 2018.09.28 | Q5:Longest Palindromic Substring |Characters |
+|            | Q4:Median of Two Sorted Arrays - todo fixed |
+|            | Q3:Longest Substring Without Repeating 
+| 2018.09.27 | Q2:Add Two Numbers |
+|            | Q1:Two Sum |
