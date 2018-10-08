@@ -8,13 +8,15 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 # TODO:
 - [ ] Q4: Complexity not O(log (m+n))
-- [ ] Q33: BTS problem
+- [ ] Q33: BTS problem - need to practice again
 
-## 目前進度: 18/100
+## 目前進度: 19/100
 # Log:
+
 | Date | Changes |
 |------|----------------------------|
 | 2018.10.09 | Q39:Combination Sum |
+|            | Q33. Search in Rotated Sorted Array |
 | 2018.10.08 | Q34:Find First and Last Position of Element in Sorted Array |
 | 2018.10.05 | Q35:Search Insert Position |
 | 2018.10.04 | Q32:Longest Valid Parentheses |
