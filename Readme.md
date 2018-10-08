@@ -10,11 +10,12 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q4: Complexity not O(log (m+n))
 - [ ] Q33: BTS problem
 
-## 目前進度: 16/100
+## 目前進度: 18/100
 # Log:
 | Date | Changes |
 |------|----------------------------|
-| 2018.10.08 | Q34:Find First and Last Position of Element in Sorted Array
+| 2018.10.09 | Q39:Combination Sum |
+| 2018.10.08 | Q34:Find First and Last Position of Element in Sorted Array |
 | 2018.10.05 | Q35:Search Insert Position |
 | 2018.10.04 | Q32:Longest Valid Parentheses |
 | 2018.10.02 | Q23:Merge k Sorted Lists |
