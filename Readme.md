@@ -14,6 +14,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+| 2018.10.08 | Q34:Find First and Last Position of Element in Sorted Array
 | 2018.10.05 | Q35:Search Insert Position |
 | 2018.10.04 | Q32:Longest Valid Parentheses |
 | 2018.10.02 | Q23:Merge k Sorted Lists |
