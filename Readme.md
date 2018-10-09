@@ -11,12 +11,13 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q33: BTS problem - need to practice again
 - [ ] Q42: Trapping Rain Water - Can change DP or 2 points solution
 
-## 目前進度: 20/100
+## 目前進度: 21/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
-| 2018.10.09 | Q42: Trapping Rain Water |
+| 2018.10.09 | Q46: Permutations |
+|            | Q42: Trapping Rain Water |
 |            | Q39:Combination Sum |
 |            | Q33. Search in Rotated Sorted Array |
 | 2018.10.08 | Q34:Find First and Last Position of Element in Sorted Array |
