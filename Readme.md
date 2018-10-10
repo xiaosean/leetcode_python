@@ -11,7 +11,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q33: BTS problem - need to practice again
 - [ ] Q42: Trapping Rain Water - Can change DP or 2 points solution
 
-## 目前進度: 24/100
+## 目前進度: 25/100
 # Log:
 
 | Date | Changes |
