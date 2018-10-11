@@ -11,12 +11,13 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q33: BTS problem - need to practice again
 - [ ] Q42: Trapping Rain Water - Can change DP or 2 points solution
 
-## 目前進度: 25/100
+## 目前進度: 26/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
-| 2018.10.10 | Q55. Jump Game|
+| 2018.10.11 | Q56. Merge Intervals |
+| 2018.10.10 | Q55. Jump Game |
 |            | Q53: Maximum Subarray |
 |            | Q49: Group Anagrams |
 |            | Q48: Rotate Image |
