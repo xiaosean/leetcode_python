@@ -13,7 +13,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q72: Edit Distance - I have no idea
 
 
-## 目前進度: 29/100
+## 目前進度: 30/100
 # Log:
 
 | Date | Changes |
