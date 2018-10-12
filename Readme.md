@@ -10,12 +10,15 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q4: Complexity not O(log (m+n))
 - [ ] Q33: BTS problem - need to practice again
 - [ ] Q42: Trapping Rain Water - Can change DP or 2 points solution
+- [ ] Q72: Edit Distance - I have no idea
+
 
 ## 目前進度: 29/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
+| 2018.10.13 | Q75: Sort Colors |
 | 2018.10.12 | Q70: Climbing Stairs |
 |            | Q64: Minimum Path Sum |
 | 2018.10.11 | Q62: Unique Paths |
