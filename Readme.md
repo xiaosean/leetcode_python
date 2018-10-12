@@ -11,12 +11,13 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q33: BTS problem - need to practice again
 - [ ] Q42: Trapping Rain Water - Can change DP or 2 points solution
 
-## 目前進度: 28/100
+## 目前進度: 29/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
-| 2018.10.12 | Q64: Minimum Path Sum |
+| 2018.10.12 | Q70: Climbing Stairs |
+|            | Q64: Minimum Path Sum |
 | 2018.10.11 | Q62: Unique Paths |
 |            | Q56: Merge Intervals |
 | 2018.10.10 | Q55: Jump Game |
