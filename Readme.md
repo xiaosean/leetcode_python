@@ -13,11 +13,12 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q72: Edit Distance - I have no idea
 
 
-## 目前進度: 31/100
+## 目前進度: 32/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
+| 2018.10.15 | Q78: Subsets |
 | 2018.10.14 | Q76: Minimum Window Substring |
 | 2018.10.13 | Q75: Sort Colors |
 | 2018.10.12 | Q70: Climbing Stairs |
