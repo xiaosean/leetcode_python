@@ -10,7 +10,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q4: Complexity not O(log (m+n))
 - [ ] Q33: BTS problem - need to practice again
 - [ ] Q42: Trapping Rain Water - Can change DP or 2 points solution
-- [ ] Q72: Edit Distance - I have no idea
+- [ ] Q72: Edit Distance - DP solution need practice 
+	this is most elegant : https://leetcode.com/problems/edit-distance/discuss/159295/Python-solutions-and-intuition
 
 
 ## 目前進度: 32/100
@@ -18,6 +19,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2018.10.16 | Q72: Edit Distance |
 | 2018.10.15 | Q78: Subsets |
 | 2018.10.14 | Q76: Minimum Window Substring |
 | 2018.10.13 | Q75: Sort Colors |
