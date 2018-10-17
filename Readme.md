@@ -14,11 +14,12 @@ https://leetcode.com/problemset/top-100-liked-questions/
 	this is most elegant : https://leetcode.com/problems/edit-distance/discuss/159295/Python-solutions-and-intuition
 
 
-## 目前進度: 32/100
+## 目前進度: 34/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
+| 2018.10.17 | Q79: Word Search |
 | 2018.10.16 | Q72: Edit Distance |
 | 2018.10.15 | Q78: Subsets |
 | 2018.10.14 | Q76: Minimum Window Substring |
