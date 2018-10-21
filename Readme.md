@@ -11,14 +11,17 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q33: BTS problem - need to practice again
 - [ ] Q42: Trapping Rain Water - Can change DP or 2 points solution
 - [ ] Q72: Edit Distance - DP solution need practice 
-	this is most elegant : https://leetcode.com/problems/edit-distance/discuss/159295/Python-solutions-and-intuition
+	This is the most elegant : https://leetcode.com/problems/edit-distance/discuss/159295/Python-solutions-and-intuition
+- [ ] Q85: Maximal Rectangle
 
 
-## 目前進度: 34/100
+## 目前進度: 35/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
+| 2018.10.22 | Q94: Binary Tree Inorder Traversal |
+| 2018.10.18 | Q84: Largest Rectangle in Histogram |
 | 2018.10.17 | Q79: Word Search |
 | 2018.10.16 | Q72: Edit Distance |
 | 2018.10.15 | Q78: Subsets |
