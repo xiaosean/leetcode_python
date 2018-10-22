@@ -13,6 +13,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q72: Edit Distance - DP solution need practice 
 	This is the most elegant : https://leetcode.com/problems/edit-distance/discuss/159295/Python-solutions-and-intuition
 - [ ] Q85: Maximal Rectangle
+- [ ] Q96: Maximal Rectangle - interesting DP question nee practice
 
 
 ## 目前進度: 35/100
@@ -20,7 +21,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
-| 2018.10.22 | Q94: Binary Tree Inorder Traversal |
+| 2018.10.22 | Q96: Unique Binary Search Trees |
+|            | Q94: Binary Tree Inorder Traversal |
 | 2018.10.18 | Q84: Largest Rectangle in Histogram |
 | 2018.10.17 | Q79: Word Search |
 | 2018.10.16 | Q72: Edit Distance |
