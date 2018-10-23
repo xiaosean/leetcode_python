@@ -14,13 +14,15 @@ https://leetcode.com/problemset/top-100-liked-questions/
 	This is the most elegant : https://leetcode.com/problems/edit-distance/discuss/159295/Python-solutions-and-intuition
 - [ ] Q85: Maximal Rectangle
 - [ ] Q96: Maximal Rectangle - interesting DP question nee practice
-
+- [ ] Q98. Validate Binary Search Tree - 
+	Use stack solution is the most elegant:https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution)
 
 ## 目前進度: 35/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
+| 2018.10.23 | Q98: Validate Binary Search Tree |
 | 2018.10.22 | Q96: Unique Binary Search Trees |
 |            | Q94: Binary Tree Inorder Traversal |
 | 2018.10.18 | Q84: Largest Rectangle in Histogram |
