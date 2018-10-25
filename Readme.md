@@ -17,11 +17,13 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q98. Validate Binary Search Tree - 
 	Use stack solution is the most elegant:https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution)
 
-## 目前進度: 39/100
+## 目前進度: 41/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
+| 2018.10.26 | Q102: Binary Tree Level Order Traversal |   
+|            | Q101: Symmetric Tree |
 | 2018.10.24 | Q31: Next Permutation |
 |            | Q100: Same Tree |
 | 2018.10.23 | Q98: Validate Binary Search Tree |
