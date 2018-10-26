@@ -22,7 +22,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
-| 2018.10.26 | Q104: Maximum Depth of Binary Tree |   
+| 2018.10.26 | Q114: Flatten Binary Tree to Linked List |   
+|            | Q104: Maximum Depth of Binary Tree |   
 |            | Q102: Binary Tree Level Order Traversal |   
 |            | Q101: Symmetric Tree |
 | 2018.10.24 | Q31: Next Permutation |
