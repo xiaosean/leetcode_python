@@ -22,6 +22,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2018.10.27 | Q105. Construct Binary Tree from Preorder and Inorder Traversal |
 | 2018.10.26 | Q114: Flatten Binary Tree to Linked List |   
 |            | Q104: Maximum Depth of Binary Tree |   
 |            | Q102: Binary Tree Level Order Traversal |   
