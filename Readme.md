@@ -17,12 +17,14 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q98. Validate Binary Search Tree - 
 	Use stack solution is the most elegant:https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution)
 
-## 目前進度: 45/100
+## 目前進度: 46/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
-| 2018.11.16 | Q136. Construct Binary Tree from Preorder and Inorder 
+| 2018.11.17 | Q139. Word Break |
+|            | Q121. Best Time to Buy and Sell Stock|
+| 2018.11.16 | Q136. Single number |
 | 2018.10.27 | Q105. Construct Binary Tree from Preorder and Inorder Traversal |
 | 2018.10.26 | Q114: Flatten Binary Tree to Linked List |   
 |            | Q104: Maximum Depth of Binary Tree |   
