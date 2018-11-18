@@ -17,11 +17,13 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q98. Validate Binary Search Tree - 
 	Use stack solution is the most elegant:https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution)
 
-## 目前進度: 46/100
+## 目前進度: 48/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
+| 2018.11.18 | Q142. Linked List Cycle  II|
+|            | Q141. Linked List Cycle|
 | 2018.11.17 | Q139. Word Break |
 |            | Q121. Best Time to Buy and Sell Stock|
 | 2018.11.16 | Q136. Single number |
