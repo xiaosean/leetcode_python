@@ -17,12 +17,13 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q98. Validate Binary Search Tree - 
 	Use stack solution is the most elegant:https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution)
 
-## 目前進度: 52/100
+## 目前進度: 53/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
-| 2018.11.24 | 128. Longest Consecutive Sequence |
+| 2018.11.24 | Q128. Longest Consecutive Sequence |
+|            | Q152. Maximum Product Subarray |
 | 2018.11.22 | Q160. Intersection of Two Linked Lists |
 |            | Q155. Min Stack |
 |			 | Q124. Binary Tree Maximum Path Sum|
