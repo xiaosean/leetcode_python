@@ -13,16 +13,17 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q72: Edit Distance - DP solution need practice 
 	This is the most elegant : https://leetcode.com/problems/edit-distance/discuss/159295/Python-solutions-and-intuition
 - [ ] Q85: Maximal Rectangle
-- [ ] Q96: Maximal Rectangle - interesting DP question nee practice
+- [ ] Q96: Maximal Rectangle - interesting DP question need practice
 - [ ] Q98. Validate Binary Search Tree - 
 	Use stack solution is the most elegant:https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution)
 
-## 目前進度: 55/100
+## 目前進度: 57/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
-| 2018.11.26 | Q198. House Robber |
+| 2018.11.26 | Q200. Number of Islands |
+|            | Q198. House Robber |
 | 2018.11.25 | Q169. Majority Element |
 | 2018.11.24 | Q128. Longest Consecutive Sequence |
 |            | Q152. Maximum Product Subarray |
