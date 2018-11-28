@@ -22,7 +22,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
-| 2018.11.28 | Q208. Implement Trie (Prefix Tree) |
+| 2018.11.28 | Q215. Kth Largest Element in an Array |
+|            | Q208. Implement Trie (Prefix Tree) |
 |            | Q148. Sort List |
 | 2018.11.27 | Q207. Course Schedule |
 |            | Q206. Reverse Linked List |
