@@ -17,11 +17,12 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q98. Validate Binary Search Tree - 
 	Use stack solution is the most elegant:https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution)
 
-## 目前進度: 61/100
+## 目前進度: 62/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
+| 2018.11.29 | Q226. Invert Binary Tree |
 | 2018.11.28 | Q215. Kth Largest Element in an Array |
 |            | Q208. Implement Trie (Prefix Tree) |
 |            | Q148. Sort List |
