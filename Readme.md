@@ -22,6 +22,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2018.12.12 | Q338. Counting Bits|
 | 2018.12.07 | Q448. Find All Numbers Disappeared in an Array |
 |            | Q240. Search a 2D Matrix II |
 | 2018.12.05 | Q238. Product of Array Except Self |
