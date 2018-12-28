@@ -17,11 +17,12 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q98. Validate Binary Search Tree - 
 	Use stack solution is the most elegant:https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution)
 - [] Q238. Product of Array Except Self - Practice: Using for loop is not intuitive
-## 目前進度: 65/100
+## 目前進度: 71/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
+| 2018.12.29 | Q287. Find the Duplicate Number|
 | 2018.12.28 | Q538. Convert BST to Greater Tree|
 | 2018.12.27 | Q461. Hamming Distance|
 | 2018.12.12 | Q338. Counting Bits|
