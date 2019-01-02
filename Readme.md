@@ -17,11 +17,12 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q98. Validate Binary Search Tree - 
 	Use stack solution is the most elegant:https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution)
 - [] Q238. Product of Array Except Self - Practice: Using for loop is not intuitive
-## 目前進度: 73/100
+## 目前進度: 74/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.01.02 | 581. Shortest Unsorted Continuous Subarray|
 | 2018.12.31 | Q543. Diameter of Binary Tree|
 | 2018.12.29 | Q287. Find the Duplicate Number|
 |            | Q438. Find All Anagrams in a String|
