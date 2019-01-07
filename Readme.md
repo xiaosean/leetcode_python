@@ -19,11 +19,12 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [] Q238. Product of Array Except Self - Practice: Using for loop is not intuitive
 - [] Q416. Partition Equal Subset Sum - practice DP:https://leetcode.com/problems/partition-equal-subset-sum/discuss/90592/01-knapsack-detailed-explanation
 
-## 目前進度: 78/100
+## 目前進度: 79/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.01.07 | Q771. Jewels and Stones |
 | 2019.01.06 | Q416. Partition Equal Subset Sum |
 | 2019.01.05 | Q437. Path Sum III |
 | 2019.01.04 | Q617. Merge Two Binary Trees |
