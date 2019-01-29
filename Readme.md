@@ -24,7 +24,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
-| 2019.01.27 | Q221. Maximal Square |
+| 2019.01.28 | Q221. Maximal Square |
 | 2019.01.27 | Q300. Longest Increasing Subsequence |
 | 2019.01.10 | Q394. Decode String |
 | 2019.01.07 | Q771. Jewels and Stones |
