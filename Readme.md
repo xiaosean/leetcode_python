@@ -18,6 +18,9 @@ https://leetcode.com/problemset/top-100-liked-questions/
 	Use stack solution is the most elegant:https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution)
 - [] Q238. Product of Array Except Self - Practice: Using for loop is not intuitive
 - [] Q416. Partition Equal Subset Sum - practice DP:https://leetcode.com/problems/partition-equal-subset-sum/discuss/90592/01-knapsack-detailed-explanation
+- [] Q406. Queue Reconstruction by Height
+
+
 
 ## 目前進度: 83/100
 # Log:
