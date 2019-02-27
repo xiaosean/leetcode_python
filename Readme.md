@@ -29,6 +29,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.02.27 | Q14. Longest Common Prefix |
 | 2019.02.26 | Q494. Target Sum |
 | 2019.02.22 | Q9. Palindrome Number | 
 | 2019.02.21 | Q7. Reverse Integer | 
