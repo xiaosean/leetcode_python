@@ -29,6 +29,9 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+
+| 2019.03.03 | Q16. 3Sum Closest |
+|            | Q26. Remove Duplicates from Sorted Array |
 | 2019.03.01 | Q24. Swap Nodes in Pairs |
 | 2019.02.27 | Q14. Longest Common Prefix |
 | 2019.02.26 | Q494. Target Sum |
