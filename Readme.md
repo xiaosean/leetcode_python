@@ -29,6 +29,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.03.05 | Q41. First Missing Positive |
 | 2019.03.03 | Q36. Valid Sudoku |
 |            | Q16. 3Sum Closest |
 |            | Q26. Remove Duplicates from Sorted Array |
