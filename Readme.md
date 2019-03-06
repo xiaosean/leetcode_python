@@ -18,17 +18,19 @@ https://leetcode.com/problemset/top-100-liked-questions/
 	Use stack solution is the most elegant:https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution)
 - [] Q236. Lowest Common Ancestor of a Binary Tree
 - [] Q238. Product of Array Except Self - Practice: Using for loop is not intuitive
+- [] Q312. Burst Balloons
 - [] Q416. Partition Equal Subset Sum - practice DP:https://leetcode.com/problems/partition-equal-subset-sum/discuss/90592/01-knapsack-detailed-explanation
 - [] Q494. Target Sum
 - [] Q560. Subarray Sum Equals K - interesting solution by two sum.
 
 
 
-## 目前進度: 92/100
+## 目前進度: 93/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.03.06 | Q312. Burst Balloons |
 | 2019.03.05 | Q41. First Missing Positive |
 | 2019.03.03 | Q36. Valid Sudoku |
 |            | Q16. 3Sum Closest |
