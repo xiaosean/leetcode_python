@@ -10,6 +10,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q4: Complexity not O(log (m+n))
 - [ ] Q33: BTS problem - need to practice again
 - [ ] Q42: Trapping Rain Water - Can change DP or 2 points solution
+- [ ] Q47. Permutations II - DFS solution
 - [ ] Q72: Edit Distance - DP solution need practice 
 	This is the most elegant : https://leetcode.com/problems/edit-distance/discuss/159295/Python-solutions-and-intuition
 - [ ] Q85: Maximal Rectangle
@@ -30,6 +31,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.03.09 | Q47. Permutations II |
 | 2019.03.08 | Q66. Plus One |
 | 2019.03.07 | Q73. Set Matrix Zeroes |
 | 2019.03.06 | Q312. Burst Balloons |
