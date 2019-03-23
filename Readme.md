@@ -32,6 +32,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.03.23 | Q129. Sum Root to Leaf Numbers|
 | 2019.03.21 | Q111. Minimum Depth of Binary Tree |
 | 2019.03.20 | Q735. Asteroid Collision |
 | 2019.03.16 | Q90. Subsets II |
