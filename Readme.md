@@ -32,6 +32,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.03.27 | Q914. 914. X of a Kind in a Deck of Cards |
 | 2019.03.24 | Q641. Design Circular Deque
 | 2019.03.23 | Q129. Sum Root to Leaf Numbers|
 | 2019.03.21 | Q111. Minimum Depth of Binary Tree |
