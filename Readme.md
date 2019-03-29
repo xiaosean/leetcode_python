@@ -33,6 +33,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.03.29 | Q413. Arithmetic Slices |
 | 2019.03.28 | Q154. Find Minimum in Rotated Sorted Array II |
 | 2019.03.27 | Q914. X of a Kind in a Deck of Cards |
 | 2019.03.24 | Q641. Design Circular Deque
