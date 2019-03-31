@@ -18,6 +18,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [ ] Q98. Validate Binary Search Tree - 
 	Use stack solution is the most elegant:https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution)
 - [] Q111. Minimum Depth of Binary Tree - interesting solution
+- [] Q120. Triangle
 - [] Q154. Find Minimum in Rotated Sorted Array II
 - [] Q236. Lowest Common Ancestor of a Binary Tree
 - [] Q238. Product of Array Except Self - Practice: Using for loop is not intuitive
@@ -33,6 +34,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.03.31 | Q120. Triangle |
 | 2019.03.29 | Q413. Arithmetic Slices |
 | 2019.03.28 | Q154. Find Minimum in Rotated Sorted Array II |
 | 2019.03.27 | Q914. X of a Kind in a Deck of Cards |
