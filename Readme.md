@@ -34,6 +34,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.04.04 | Q279. Perfect Squares |
 | 2019.03.31 | Q120. Triangle |
 | 2019.03.29 | Q413. Arithmetic Slices |
 | 2019.03.28 | Q154. Find Minimum in Rotated Sorted Array II |
