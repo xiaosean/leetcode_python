@@ -24,6 +24,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [] Q238. Product of Array Except Self - Practice: Using for loop is not intuitive
 - [] Q312. Burst Balloons
 - [] Q416. Partition Equal Subset Sum - practice DP:https://leetcode.com/problems/partition-equal-subset-sum/discuss/90592/01-knapsack-detailed-explanation
+- [] Q433. Minimum Genetic Mutation - bfs problem
+
 - [] Q494. Target Sum
 - [] Q560. Subarray Sum Equals K - interesting solution by two sum.
 
@@ -34,6 +36,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.04.09 | Q433. Minimum Genetic Mutation |
 | 2019.04.04 | Q279. Perfect Squares |
 | 2019.03.31 | Q120. Triangle |
 | 2019.03.29 | Q413. Arithmetic Slices |
