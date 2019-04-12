@@ -36,6 +36,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.04.12 | Q387. First Unique Character in a String |
 | 2019.04.11 | Q566. Reshape the Matrix |
 | 2019.04.09 | Q433. Minimum Genetic Mutation |
 | 2019.04.04 | Q279. Perfect Squares |
