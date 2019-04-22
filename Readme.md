@@ -36,6 +36,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.04.22 | 1002. Find Common Characters |
 | 2019.04.21 | Q942. DI String Match |
 | 2019.04.19 | Q880. Decoded String at Index |
 | 2019.04.12 | Q387. First Unique Character in a String |
