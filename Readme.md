@@ -31,12 +31,14 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 
 
-## 目前進度: 94/100
+## 目前進度: 95/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
-| 2019.04.22 | 1002. Find Common Characters |
+| 2019.05.06 | Q821. Shortest Distance to a Character |
+| 2019.05.03 | Q739. Daily Temperatures |
+| 2019.04.22 | Q1002. Find Common Characters |
 | 2019.04.21 | Q942. DI String Match |
 | 2019.04.19 | Q880. Decoded String at Index |
 | 2019.04.12 | Q387. First Unique Character in a String |
