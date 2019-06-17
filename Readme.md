@@ -28,7 +28,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 - [] Q494. Target Sum
 - [] Q560. Subarray Sum Equals K - interesting solution by two sum.
-
+- [] Q846. Hand of Straights. - can use try except，genius solution https://leetcode.com/problems/hand-of-straights/
 
 
 ## 目前進度: 95/100
@@ -36,7 +36,9 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
-| 2019.05.14 | Q445. Add Two Numbers II |
+| 2019.05.20 | Q219. Contains Duplicate II|
+|            | Q846. Hand of Straights | 
+|            | Q445. Add Two Numbers II |
 | 2019.05.14 | Q648. Replace Words |
 | 2019.05.06 | Q713. Subarray Product Less Than K |
 |            | Q821. Shortest Distance to a Character |
