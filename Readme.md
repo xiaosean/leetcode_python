@@ -36,6 +36,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.09.01 | 1046. Last Stone Weight |
 | 2019.08.31 | Q1147. Longest Chunked Palindrome Decomposition |
 | 2019.05.20 | Q219. Contains Duplicate II|
 |            | Q846. Hand of Straights | 
