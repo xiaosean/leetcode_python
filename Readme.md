@@ -36,6 +36,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.09.08 | Q167. Two Sum II - Input array is sorted|
 | 2019.09.07 | Q412. Fizz Buzz |
 | 2019.09.01 | Q1046. Last Stone Weight |
 | 2019.08.31 | Q1147. Longest Chunked Palindrome Decomposition |
