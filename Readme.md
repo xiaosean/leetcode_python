@@ -36,6 +36,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.09.24 | Q456. 132 Pattern|
 | 2019.09.21 | Q985. Sum of Even Numbers After Queries|
 || 670. Maximum Swap|
 | 2019.09.08 | Q167. Two Sum II - Input array is sorted|
