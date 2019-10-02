@@ -36,8 +36,9 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
-| 2019.09.30 | 695. Max Area of Island|
-| 2019.09.29 | 674. Longest Continuous Increasing Subsequence |
+| 2019.10.02 | Q118. Pascal's Triangle|
+| 2019.09.30 | Q695. Max Area of Island|
+| 2019.09.29 | Q674. Longest Continuous Increasing Subsequence |
 | 2019.09.27 | Q377. Combination Sum IV |
 | 2019.09.24 | Q456. 132 Pattern|
 | 2019.09.21 | Q985. Sum of Even Numbers After Queries|
