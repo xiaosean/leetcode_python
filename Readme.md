@@ -36,7 +36,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
-| 2019.10.08 | 680. Valid Palindrome II |
+| 2019.10.09 | 477. Total Hamming Distance|
+| 2019.10.08 | Q680. Valid Palindrome II |
 | 2019.10.06 | Q848. Shifting Letters|
 | 2019.10.02 | Q118. Pascal's Triangle|
 | 2019.09.30 | Q695. Max Area of Island|
