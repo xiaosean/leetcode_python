@@ -36,6 +36,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+| 2019.10.16 | Q459. Repeated Substring Pattern |
+| | Q350. Intersection of Two Arrays II |
 | 2019.10.09 | 477. Total Hamming Distance|
 | 2019.10.08 | Q680. Valid Palindrome II |
 | 2019.10.06 | Q848. Shifting Letters|
