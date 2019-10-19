@@ -36,7 +36,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
-| 2019.10.19 | Q764. Largest Plus Sign|
+| 2019.10.19 | Q430. Flatten a Multilevel Doubly Linked List|
+| | Q764. Largest Plus Sign|
 | 2019.10.16 | Q459. Repeated Substring Pattern |
 | | Q350. Intersection of Two Arrays II |
 | 2019.10.09 | 477. Total Hamming Distance|
