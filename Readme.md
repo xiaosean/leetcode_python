@@ -29,6 +29,10 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [] Q494. Target Sum
 - [] Q560. Subarray Sum Equals K - interesting solution by two sum.
 - [] Q846. Hand of Straights. - can use try except，genius solution https://leetcode.com/problems/hand-of-straights/
+- [] Q486. Predict the Winner - Min max 
+- [] Q137. Single Number II - triplet xor
+- [] Q380. Insert Delete GetRandom O(1)
+
 
 
 ## 目前進度: 95/100
