@@ -40,6 +40,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+|2019.10.30| Q1020. Number of Enclaves|
 |2019.10.28| Q486. Predict the Winner
 |2019.10.27| Q380. Insert Delete GetRandom O(1)|
 |2019.10.25| Q917. Reverse Only Letters|
