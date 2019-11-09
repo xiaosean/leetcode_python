@@ -40,7 +40,9 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
-|2019.11.06| Q108. Convert Sorted Array to Binary Search Tree|
+|2019.11.09| Q910. Smallest Range II
+|2019.11.06| Q43. Multiply Strings|
+|| Q108. Convert Sorted Array to Binary Search Tree|
 |2019.10.30| Q623. Add One Row to Tree|
 || Q1020. Number of Enclaves|
 |2019.10.28| Q486. Predict the Winner
