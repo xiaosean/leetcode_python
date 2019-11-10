@@ -40,7 +40,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
-|2019.11.10| Q1232_Check-If-It-Is-a-Straight-Line.py
+|2019.11.10| Q352. Data Stream as Disjoint Intervals|
+|2019.11.10| Q1232. Check If It Is a Straight Line
 |2019.11.09| Q910. Smallest Range II
 |2019.11.06| Q43. Multiply Strings|
 || Q108. Convert Sorted Array to Binary Search Tree|
