@@ -40,6 +40,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+|2019.11.12| Q780. Reaching Points
 |2019.11.10| Q352. Data Stream as Disjoint Intervals|
 |2019.11.10| Q1232. Check If It Is a Straight Line
 |2019.11.09| Q910. Smallest Range II
