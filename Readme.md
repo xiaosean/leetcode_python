@@ -32,7 +32,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [] Q486. Predict the Winner - Min max 
 - [] Q137. Single Number II - triplet xor
 - [] Q380. Insert Delete GetRandom O(1)
-
+- [] Q643. Maximum Average Subarray I => dimension and O(n)
 
 
 ## 目前進度: 95/100
@@ -40,6 +40,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+|2019.11.13| Q643. Maximum Average Subarray I |
 |2019.11.12| Q780. Reaching Points
 |2019.11.10| Q352. Data Stream as Disjoint Intervals|
 |2019.11.10| Q1232. Check If It Is a Straight Line
