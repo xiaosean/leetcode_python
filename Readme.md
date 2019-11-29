@@ -40,6 +40,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+|2019.11.29| Q415. Add Strings|
 |2019.11.21| Q153. Find Minimum in Rotated Sorted Array|
 |2019.11.20| Q554. Brick Wall |
 |2019.11.18| Q901. Online Stock Span |
