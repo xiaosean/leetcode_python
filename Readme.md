@@ -40,6 +40,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+|2019.12.02| Q1189. Maximum Number of Balloons
 |2019.11.30| Q559. Maximum Depth of N-ary Tree
 |2019.11.29| Q415. Add Strings|
 |2019.11.21| Q153. Find Minimum in Rotated Sorted Array|
