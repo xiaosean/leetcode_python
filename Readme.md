@@ -33,6 +33,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [] Q137. Single Number II - triplet xor
 - [] Q380. Insert Delete GetRandom O(1)
 - [] Q643. Maximum Average Subarray I => dimension and O(n)
+- [] Q201. Bitwise AND of Numbers Range => interesting logical solution
 
 
 ## 目前進度: 95/100
@@ -40,6 +41,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+|2019.12.03| 201. Bitwise AND of Numbers Range
 |2019.12.02| Q1189. Maximum Number of Balloons
 |2019.11.30| Q559. Maximum Depth of N-ary Tree
 |2019.11.29| Q415. Add Strings|
