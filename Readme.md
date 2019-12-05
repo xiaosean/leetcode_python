@@ -41,7 +41,9 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
-|2019.12.03| 201. Bitwise AND of Numbers Range
+|2019.12.05| Q1018. Binary Prefix Divisible By 5
+|2019.12.04| Q199. Binary Tree Right Side View
+|2019.12.03| Q201. Bitwise AND of Numbers Range
 |2019.12.02| Q1189. Maximum Number of Balloons
 |2019.11.30| Q559. Maximum Depth of N-ary Tree
 |2019.11.29| Q415. Add Strings|
