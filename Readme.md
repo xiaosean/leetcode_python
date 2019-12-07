@@ -41,6 +41,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+|2019.12.07| Q637. Average of Levels in Binary Tree
 |2019.12.05| Q1018. Binary Prefix Divisible By 5
 |2019.12.04| Q199. Binary Tree Right Side View
 |2019.12.03| Q201. Bitwise AND of Numbers Range
