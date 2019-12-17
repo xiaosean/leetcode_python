@@ -41,6 +41,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+|2019.12.17| Q859. Buddy Strings
 |2019.12.11| Q1162. As Far from Land as Possible
 |2019.12.11| Q77. Combinations
 |2019.12.09| Q1122. Relative Sort Array
