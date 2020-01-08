@@ -41,7 +41,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
-|2019.01.08| Q556. Next Greater Element III
+|2019.01.08| Q122. Best Time to Buy and Sell Stock II
+|| Q556. Next Greater Element III
 |2019.01.06| Q150. Evaluate Reverse Polish Notation
 |2019.12.19| Q844. Backspace String Compare
 |2019.12.18| Q1190. Reverse Substrings Between Each Pair of Parentheses
