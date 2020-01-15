@@ -41,6 +41,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+|2019.01.15| Q45. Jump Game II
 |2019.01.14| Q599. Minimum Index Sum of Two Lists
 |2019.01.11| Q976. Largest Perimeter Triangle
 |2019.01.10| Q409. Longest Palindrome
