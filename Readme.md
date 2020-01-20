@@ -41,6 +41,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+|2019.01.20| Q884. Uncommon Words from Two Sentences
 |2019.01.17| Q867. Transpose Matrix
 |2019.01.15| Q45. Jump Game II
 |2019.01.14| Q599. Minimum Index Sum of Two Lists
