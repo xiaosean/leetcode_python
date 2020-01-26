@@ -34,6 +34,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [] Q380. Insert Delete GetRandom O(1)
 - [] Q643. Maximum Average Subarray I => dimension and O(n)
 - [] Q201. Bitwise AND of Numbers Range => interesting logical solution
+- [] Q1114. Print in Order, Threading solution:https://leetcode.com/problems/print-in-order/discuss/335939/5-Python-threading-solutions-(Barrier-Lock-Event-Semaphore-Condition)-with-explanation
+
 
 
 ## 目前進度: 95/100
@@ -41,6 +43,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+|2019.01.26| Q1114. Print in Order
 |2019.01.26| Q905. Sort Array By Parity
 |2019.01.24| Q63. Unique Paths II
 |2019.01.20| Q884. Uncommon Words from Two Sentences
