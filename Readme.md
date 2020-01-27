@@ -43,6 +43,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+|2019.01.27| Q378. Kth Smallest Element in a Sorted Matrix
 |2019.01.26| Q1114. Print in Order
 |2019.01.26| Q905. Sort Array By Parity
 |2019.01.24| Q63. Unique Paths II
