@@ -35,7 +35,10 @@ https://leetcode.com/problemset/top-100-liked-questions/
 - [] Q643. Maximum Average Subarray I => dimension and O(n)
 - [] Q201. Bitwise AND of Numbers Range => interesting logical solution
 - [] Q1114. Print in Order, Threading solution:https://leetcode.com/problems/print-in-order/discuss/335939/5-Python-threading-solutions-(Barrier-Lock-Event-Semaphore-Condition)-with-explanation
-
+- [] Q767. Reorganize String
+> Separate the most common characters with other characters
+> Interesting solution: https://leetcode.com/problems/reorganize-string/discuss/113435/4-lines-Python
+> Nicely use slice and string tricks.
 
 
 ## 目前進度: 95/100
