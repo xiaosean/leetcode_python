@@ -41,11 +41,14 @@ https://leetcode.com/problemset/top-100-liked-questions/
 > Nicely use slice and string tricks.
 
 
+
 ## 目前進度: 95/100
 # Log:
 
 | Date | Changes |
 |------|----------------------------|
+|2019.02.14| Q232. Implement Queue using Stacks
+|2019.02.13| Q112. Path Sum
 |2019.02.12| Q767. Reorganize String
 |2019.02.10| Q645. Set Mismatch
 |2019.02.07| Q743. Network Delay Time
