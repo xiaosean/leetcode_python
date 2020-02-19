@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+|2019.02.19| Q57. Insert Interval
 |2019.02.18| Q1027. Longest Arithmetic Sequence
 |2019.02.17| Q929. Unique Email Addresses
 |2019.02.16| Q367. Valid Perfect Square|
