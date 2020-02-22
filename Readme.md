@@ -41,8 +41,9 @@ https://leetcode.com/problemset/top-100-liked-questions/
 > Nicely use slice and string tricks.
 - [] Q1027. Longest Arithmetic Sequence
 > 2dim dp solution, worth to do it again
-
-
+- [] Q116. Populating Next Right Pointers in Each Node 
+> Interesting tree question
+ 
 
 
 ## 目前進度: 95/100
@@ -50,6 +51,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 | Date | Changes |
 |------|----------------------------|
+|2019.02.22| Q116. Populating Next Right Pointers in Each Node
 |2019.02.20| Q1352. Product of the Last K Numbers
 |2019.02.19| Q57. Insert Interval
 |2019.02.18| Q1027. Longest Arithmetic Sequence
