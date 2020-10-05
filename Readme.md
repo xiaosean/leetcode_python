@@ -48,9 +48,9 @@ https://leetcode.com/problemset/top-100-liked-questions/
 
 ## 目前進度: 95/100
 # Log:
-
 | Date | Changes |
 |------|----------------------------|
+|2020.10.05| Q1128. Number of Equivalent Domino Pairs
 |2019.02.22| Q116. Populating Next Right Pointers in Each Node
 |2019.02.20| Q1352. Product of the Last K Numbers
 |2019.02.19| Q57. Insert Interval
