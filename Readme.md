@@ -50,6 +50,9 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.07.20| Q384. Shuffle an Array
+|| Q1470. Shuffle the Array	
+|| Q
 |2020.10.05| Q1128. Number of Equivalent Domino Pairs
 |2019.02.22| Q116. Populating Next Right Pointers in Each Node
 |2019.02.20| Q1352. Product of the Last K Numbers
