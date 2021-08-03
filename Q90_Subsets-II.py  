@@ -1,0 +1,19 @@
+class Solution:
+    def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
+        hash_table = {}
+        def dfs(nums, path=None, res=[]):
+            if path is None:
+                path = []
+            else:
+                path.sort()
+                str_path = str(path)
+                if not hash_table.get(str_path, False):
+                    res += [path]
+                    hash_table[str_path] = True
+                    
+            for idx, num in enumerate(nums):
+                dfs(nums[idx+1:], path+[num])
+            return res
+        return [[]] + dfs(nums) 
+        
+        
