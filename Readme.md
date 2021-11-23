@@ -50,6 +50,9 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.11.23| Q518. 518. Coin Change 2 - DP with bottom up
+|2021.11.22| Q322. Coin Change - DP with dfs
+|2021.11.22| Q322. Coin Change - DP with bottom up solution
 |2021.08.11| Q954. Array of Doubled Pairs
 |2021.08.04| Q113. Path Sum II
 |2021.08.03| Q90. Subsets-II
