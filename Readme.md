@@ -50,6 +50,10 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.12.06| Q1217_Minimum-Cost-to-Move-Chips-to-The-Same-Position.py
+|2021.12.01| Q90. Subsets II|
+|2021.12.01| Q78. Subsets|
+|2021.11.26| Q46. Permutations backtrace
 |2021.11.26| Q46. Permutations dfs
 |2021.11.25| Q63. Unique Paths|
 |2021.11.25| Q62. Unique Paths|
