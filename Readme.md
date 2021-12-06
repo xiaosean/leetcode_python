@@ -50,6 +50,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.12.06| Q140. Word Break II|
+|2021.12.06| Q139. Word Break - with DP|
 |2021.12.06| Q1217_Minimum-Cost-to-Move-Chips-to-The-Same-Position.py
 |2021.12.01| Q90. Subsets II|
 |2021.12.01| Q78. Subsets|
