@@ -50,9 +50,11 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
-|2021.12.06| Q140. Word Break II|
-|2021.12.06| Q139. Word Break - with DP|
-|2021.12.06| Q1217_Minimum-Cost-to-Move-Chips-to-The-Same-Position.py
+|2021.12.08| Q45. Jump Game II
+|2021.12.08| Q1290. Convert Binary Number in a Linked List to Integer
+|2021.12.06| Q140. Word Break II
+|2021.12.06| Q139. Word Break
+|2021.12.02| Q328. Odd Even Linked List
 |2021.12.01| Q90. Subsets II|
 |2021.12.01| Q78. Subsets|
 |2021.11.26| Q46. Permutations backtrace
