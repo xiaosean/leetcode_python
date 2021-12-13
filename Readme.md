@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.12.13| Q1446. Consecutive Characters
 |2021.12.11| Q1905. Count Sub Islands
 |2021.12.11| Q200. Number of Islands
 |2021.12.10| Q40. Combination Sum II
