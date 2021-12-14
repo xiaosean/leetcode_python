@@ -50,6 +50,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.12.14| Q198. House Robber
+|2021.12.13| Q27. Remove Element
 |2021.12.13| Q567. Permutation in String
 |2021.12.13| Q15. 3Sum
 |2021.12.13| Q1446. Consecutive Characters
