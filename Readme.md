@@ -50,6 +50,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.12.17| Q221. Maximal Square
+|2021.12.15| Q147. Insertion Sort List
 |2021.12.14| Q938. Range Sum of BST
 |2021.12.14| Q198. House Robber
 |2021.12.13| Q27. Remove Element
