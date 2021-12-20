@@ -1,0 +1,23 @@
+class Solution:
+    def search(self, nums: List[int], target: int) -> int:
+        # [4, 5, 6, 7, 0, 1, 2]
+        # Consider 2 situation, 
+        # 1. easy way, mid -> target -> end is sorted
+        # 2. rotated version
+        if not nums:
+            return -1
+        lo, hi = 0, len(nums)-1
+        while lo < hi:
+            mid = (lo+hi)//2
+            if nums[mid] == target:
+                return mid
+            if (nums[mid]-nums[-1]) * (target-nums[-1]) > 0: # Easy version - Same way
+                if nums[mid] < target:
+                    lo = mid + 1 
+                else:
+                    hi = mid
+            elif target > nums[-1]: # Rotated version
+                hi = mid # target on the left side
+            else:
+                lo = mid + 1 # target on the left side
+        return lo if nums[lo]==target else -1

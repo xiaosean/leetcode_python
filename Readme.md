@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.12.20| Q33. Search in Rotated Sorted Array
 |2021.12.20| Q34. Find First and Last Position of Element in Sorted Array
 |2021.12.20| Q1200. Minimum Absolute Difference
 |2021.12.19| Q394. Decode String
