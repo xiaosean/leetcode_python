@@ -50,6 +50,9 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.12.22| Q15. 3Sum - 2 pointer solution
+|2021.12.22| Q82. Remove Duplicates from Sorted List II
+|2021.12.22| Q143. Reorder List
 |2021.12.21| Q28. Implement strStr()
 |2021.12.21| Q231. Power of Two
 |2021.12.21| Q153. Find Minimum in Rotated Sorted Array
