@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.12.26| Q973. K Closest Points to Origin
 |2021.12.25| Q377. Combination Sum IV
 |2021.12.24| Q209. Minimum Size Subarray Sum
 |2021.12.24| Q713. Subarray Product Less Than K
