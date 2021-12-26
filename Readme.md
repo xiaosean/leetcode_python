@@ -50,6 +50,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.12.26| Q117. Populating Next Right Pointers in Each Node II
+|2021.12.26| Q572. Subtree of Another Tree
 |2021.12.26| Q973. K Closest Points to Origin
 |2021.12.25| Q377. Combination Sum IV
 |2021.12.24| Q209. Minimum Size Subarray Sum
