@@ -50,6 +50,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.12.27| Q201. Bitwise AND of Numbers Range
+|2021.12.27| Q797. All Paths From Source to Target
 |2021.12.27| Q130. Surrounded Regions
 |2021.12.27| Q1091. Shortest Path in Binary Matrix
 |2021.12.27| Q476. Number Complement
