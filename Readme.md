@@ -50,6 +50,9 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.01.02| Q1010. Pairs of Songs With Total Durations Divisible by 60
+|2021.12.31| Q1015. Smallest Integer Divisible by K
+|2021.12.31| Q1026. Maximum Difference Between Node and Ancestor
 |2021.12.28| Q337. House Robber III
 |2021.12.28| Q213. House Robber II
 |2021.12.28| Q876. Middle of the Linked List
