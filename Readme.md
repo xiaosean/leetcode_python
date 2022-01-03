@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.01.03| Q997. Find the Town Judge
 |2021.01.02| Q1010. Pairs of Songs With Total Durations Divisible by 60
 |2021.12.31| Q1015. Smallest Integer Divisible by K
 |2021.12.31| Q1026. Maximum Difference Between Node and Ancestor
