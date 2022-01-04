@@ -50,6 +50,12 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.01.04| Q1009. Complement of Base 10 Integer
+|2021.01.04| Q673. Number of Longest Increasing Subsequence
+|2021.01.04| Q300. Longest Increasing Subsequence
+|2021.01.03| Q84. Largest Rectangle in Histogram
+|2021.01.03| Q85. Maximal Rectangle
+|2021.01.03| Q907. Sum of Subarray Minimums
 |2021.01.03| Q997. Find the Town Judge
 |2021.01.02| Q1010. Pairs of Songs With Total Durations Divisible by 60
 |2021.12.31| Q1015. Smallest Integer Divisible by K
