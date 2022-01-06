@@ -50,6 +50,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.01.06| Q329. Longest Increasing Path in a Matrix
+|2021.01.06| Q583. Delete Operation for Two Strings
 |2021.01.04| Q131. Palindrome Partitioning
 |2021.01.04| Q1009. Complement of Base 10 Integer
 |2021.01.04| Q673. Number of Longest Increasing Subsequence
