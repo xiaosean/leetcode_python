@@ -50,6 +50,9 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.01.07| Q7875. Koko Eating Bananas
+|2021.01.07| Q410. Split Array Largest Sum
+|2021.01.07| Q1011. Capacity To Ship Packages Within D Days
 |2021.01.06| Q329. Longest Increasing Path in a Matrix
 |2021.01.06| Q583. Delete Operation for Two Strings
 |2021.01.04| Q131. Palindrome Partitioning
