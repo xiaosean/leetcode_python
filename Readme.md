@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.01.08| Q1161. Maximum Level Sum of a Binary Tree
 |2021.01.08| Q1007. Minimum Domino Rotations For Equal Row
 |2021.01.08| Q949. Largest Time for Given Digits
 |2021.01.08| Q1509. Minimum Difference Between Largest and Smallest Value in Three Moves
