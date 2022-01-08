@@ -50,7 +50,11 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
-|2021.01.07| Q7875. Koko Eating Bananas
+|2021.01.08| Q1007. Minimum Domino Rotations For Equal Row
+|2021.01.08| Q949. Largest Time for Given Digits
+|2021.01.08| Q1509. Minimum Difference Between Largest and Smallest Value in Three Moves
+|2021.01.07| Q1482. Minimum Number of Days to Make m Bouquets
+|2021.01.07| Q875. Koko Eating Bananas
 |2021.01.07| Q410. Split Array Largest Sum
 |2021.01.07| Q1011. Capacity To Ship Packages Within D Days
 |2021.01.06| Q329. Longest Increasing Path in a Matrix
