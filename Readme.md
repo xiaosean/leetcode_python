@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.01.09| Q149. Max Points on a Line
 |2021.01.09| Q18. 4Sum
 |2021.01.09| Q803. Bricks Falling When Hit
 |2021.01.08| Q482. License Key Formatting
