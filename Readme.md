@@ -50,6 +50,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.01.12| Q119. Pascal's Triangle II
+|2021.01.12| Q701. Insert into a Binary Search Tree
 |2021.01.11| Q706. Design HashMap
 |2021.01.10| Q1137. N-th Tribonacci Number
 |2021.01.10| Q509. Fibonacci Number
