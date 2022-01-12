@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.01.12| Q59. Spiral Matrix II
 |2021.01.12| Q119. Pascal's Triangle II
 |2021.01.12| Q701. Insert into a Binary Search Tree
 |2021.01.11| Q706. Design HashMap
