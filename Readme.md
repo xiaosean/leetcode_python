@@ -50,6 +50,11 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.01.17| Q205. Isomorphic Strings
+|2021.01.17| Q290. Word Pattern
+|2021.01.14| Q334. Increasing Triplet Subsequence
+|2021.01.14| Q8. String to Integer (atoi)
+|2021.01.13| Q452. Minimum Number of Arrows to Burst Balloons
 |2021.01.12| Q59. Spiral Matrix II
 |2021.01.12| Q119. Pascal's Triangle II
 |2021.01.12| Q701. Insert into a Binary Search Tree
