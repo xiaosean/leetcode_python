@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.02.25| Q190. Reverse Bits
 |2021.02.24| Q191. Number of 1 Bits
 |2021.02.21| Q994. Rotting Oranges
 |2021.02.18| Q733. Flood Fill
