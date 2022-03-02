@@ -50,6 +50,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.03.02| Q392. Is Subsequence
+|2021.02.27| Q451. Sort Characters By Frequency
 |2021.02.25| Q190. Reverse Bits
 |2021.02.24| Q191. Number of 1 Bits
 |2021.02.21| Q994. Rotting Oranges
