@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.03.06| Q1359. Count All Valid Pickup and Delivery Options
 |2021.03.05| Q799. Champagne Tower
 |2021.03.05| Q740. Delete and Earn
 |2021.03.02| Q392. Is Subsequence
