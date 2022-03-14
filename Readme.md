@@ -50,6 +50,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.03.14| Q146. LRU Cache
+|2021.03.11| Q61. Rotate List
 |2021.03.07| Q138. Copy List with Random Pointer
 |2021.03.06| Q1359. Count All Valid Pickup and Delivery Options
 |2021.03.05| Q799. Champagne Tower
