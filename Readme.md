@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.03.16| Q946. Validate Stack Sequences
 |2021.03.14| Q71. Simplify Path
 |2021.03.14| Q146. LRU Cache
 |2021.03.11| Q61. Rotate List
