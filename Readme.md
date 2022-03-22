@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.03.22| Q1663. Smallest String With A Given Numeric Value
 |2021.03.16| Q946. Validate Stack Sequences
 |2021.03.14| Q71. Simplify Path
 |2021.03.14| Q146. LRU Cache
