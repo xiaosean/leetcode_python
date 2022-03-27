@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.03.27| Q1337. The K Weakest Rows in a Matrix
 |2021.03.27| Q1029. Two City Scheduling
 |2021.03.22| Q1663. Smallest String With A Given Numeric Value
 |2021.03.16| Q946. Validate Stack Sequences
