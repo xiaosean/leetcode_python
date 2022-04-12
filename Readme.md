@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.04.12| Q289. Game of Life
 |2021.04.11| Q682. Baseball Game
 |2021.04.11| Q1260. Shift 2D Grid
 |2021.04.08| Q703. Kth Largest Element in a Stream
