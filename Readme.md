@@ -50,6 +50,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.04.17| Q897. Increasing Order Search Tree
+|2021.04.15| Q669. Trim a Binary Search Tree
 |2021.04.14| Q700. Search in a Binary Search Tree
 |2021.04.12| Q289. Game of Life
 |2021.04.11| Q682. Baseball Game
