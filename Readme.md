@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.04.25| Q1396. Design Underground System
 |2021.04.21| Q99. Recover Binary Search Tree
 |2021.04.21| Q705.Design HashSet
 |2021.04.17| Q897. Increasing Order Search Tree
