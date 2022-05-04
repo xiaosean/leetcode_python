@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.05.05| Q1679. Max Number of K-Sum Pairs
 |2021.05.01| Q399. Evaluate Division
 |2021.04.26| Q284. Peeking Iterator
 |2021.04.25| Q1396. Design Underground System
