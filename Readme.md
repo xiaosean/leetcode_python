@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.05.06| Q225. Implement Stack using Queues
 |2021.05.05| Q1679. Max Number of K-Sum Pairs
 |2021.05.01| Q399. Evaluate Division
 |2021.04.26| Q284. Peeking Iterator
