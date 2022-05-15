@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.05.16| Q1302. Deepest Leaves Sum
 |2021.05.11| Q1641. Count Sorted Vowel Strings
 |2021.05.10| Q216. Combination Sum III
 |2021.05.07| Q1209. Remove All Adjacent Duplicates in String II
