@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.05.17| Q1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 |2021.05.16| Q1302. Deepest Leaves Sum
 |2021.05.11| Q1641. Count Sorted Vowel Strings
 |2021.05.10| Q216. Combination Sum III
