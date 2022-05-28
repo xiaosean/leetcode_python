@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2021.05.29| Q268. Missing Number
 |2021.05.28| Q1342. Number of Steps to Reduce a Number to Zero
 |2021.05.17| Q1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 |2021.05.16| Q1302. Deepest Leaves Sum
