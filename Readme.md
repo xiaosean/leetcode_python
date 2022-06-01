@@ -50,100 +50,100 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
-|2021.06.01| Q1480. Running Sum of 1d Array
-|2021.05.31| Q1461. Check If a String Contains All Binary Codes of Size K
-|2021.05.29| Q268. Missing Number
-|2021.05.28| Q1342. Number of Steps to Reduce a Number to Zero
-|2021.05.17| Q1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
-|2021.05.16| Q1302. Deepest Leaves Sum
-|2021.05.11| Q1641. Count Sorted Vowel Strings
-|2021.05.10| Q216. Combination Sum III
-|2021.05.07| Q1209. Remove All Adjacent Duplicates in String II
-|2021.05.06| Q225. Implement Stack using Queues
-|2021.05.05| Q1679. Max Number of K-Sum Pairs
-|2021.05.01| Q399. Evaluate Division
-|2021.04.26| Q284. Peeking Iterator
-|2021.04.25| Q1396. Design Underground System
-|2021.04.21| Q99. Recover Binary Search Tree
-|2021.04.21| Q705.Design HashSet
-|2021.04.17| Q897. Increasing Order Search Tree
-|2021.04.15| Q669. Trim a Binary Search Tree
-|2021.04.14| Q700. Search in a Binary Search Tree
-|2021.04.12| Q289. Game of Life
-|2021.04.11| Q682. Baseball Game
-|2021.04.11| Q1260. Shift 2D Grid
-|2021.04.08| Q703. Kth Largest Element in a Stream
-|2021.04.07| Q1721. Swapping Nodes in a Linked List
-|2021.04.07| Q923. 3Sum With Multiplicity
-|2021.03.27| Q1337. The K Weakest Rows in a Matrix
-|2021.03.27| Q1029. Two City Scheduling
-|2021.03.22| Q1663. Smallest String With A Given Numeric Value
-|2021.03.16| Q946. Validate Stack Sequences
-|2021.03.14| Q71. Simplify Path
-|2021.03.14| Q146. LRU Cache
-|2021.03.11| Q61. Rotate List
-|2021.03.07| Q138. Copy List with Random Pointer
-|2021.03.06| Q1359. Count All Valid Pickup and Delivery Options
-|2021.03.05| Q799. Champagne Tower
-|2021.03.05| Q740. Delete and Earn
-|2021.03.02| Q392. Is Subsequence
-|2021.02.27| Q451. Sort Characters By Frequency
-|2021.02.25| Q190. Reverse Bits
-|2021.02.24| Q191. Number of 1 Bits
-|2021.02.21| Q994. Rotting Oranges
-|2021.02.18| Q733. Flood Fill
-|2021.02.16| Q557. Reverse Words in a String III
-|2021.02.15| Q344. Reverse String
-|2021.02.13| Q977. Squares of a Sorted Array
-|2021.02.12| Q278. First Bad Version
-|2021.02.12| Q704. Binary Search
-|2021.02.07| Q230. Kth Smallest Element in a BST
-|2021.02.07| Q653. Two Sum IV - Input is a BST
-|2021.02.07| Q173. Binary Search Tree Iterator
-|2021.01.27| Q450. Delete Node in a BST
-|2021.01.26| Q103. Binary Tree Zigzag Level Order Traversal
-|2021.01.23| Q1823. Find the Winner of the Circular Game
-|2021.01.23| Q1249. Minimum Remove to Make Valid Parentheses
-|2021.01.23| Q225. Implement Stack using Queues
-|2021.01.23| Q25. Reverse Nodes in k-Group
-|2021.01.18| Q187. Repeated DNA Sequences
-|2021.01.18| Q605. Can Place Flowers
-|2021.01.17| Q763. Partition Labels
-|2021.01.17| Q205. Isomorphic Strings
-|2021.01.17| Q290. Word Pattern
-|2021.01.14| Q334. Increasing Triplet Subsequence
-|2021.01.14| Q8. String to Integer (atoi)
-|2021.01.13| Q452. Minimum Number of Arrows to Burst Balloons
-|2021.01.12| Q59. Spiral Matrix II
-|2021.01.12| Q119. Pascal's Triangle II
-|2021.01.12| Q701. Insert into a Binary Search Tree
-|2021.01.11| Q706. Design HashMap
-|2021.01.10| Q1137. N-th Tribonacci Number
-|2021.01.10| Q509. Fibonacci Number
-|2021.01.09| Q720. Longest Word in Dictionary
-|2021.01.09| Q149. Max Points on a Line
-|2021.01.09| Q18. 4Sum
-|2021.01.09| Q803. Bricks Falling When Hit
-|2021.01.08| Q482. License Key Formatting
-|2021.01.08| Q1161. Maximum Level Sum of a Binary Tree
-|2021.01.08| Q1007. Minimum Domino Rotations For Equal Row
-|2021.01.08| Q949. Largest Time for Given Digits
-|2021.01.08| Q1509. Minimum Difference Between Largest and Smallest Value in Three Moves
-|2021.01.07| Q1482. Minimum Number of Days to Make m Bouquets
-|2021.01.07| Q875. Koko Eating Bananas
-|2021.01.07| Q410. Split Array Largest Sum
-|2021.01.07| Q1011. Capacity To Ship Packages Within D Days
-|2021.01.06| Q329. Longest Increasing Path in a Matrix
-|2021.01.06| Q583. Delete Operation for Two Strings
-|2021.01.04| Q131. Palindrome Partitioning
-|2021.01.04| Q1009. Complement of Base 10 Integer
-|2021.01.04| Q673. Number of Longest Increasing Subsequence
-|2021.01.04| Q300. Longest Increasing Subsequence
-|2021.01.03| Q84. Largest Rectangle in Histogram
-|2021.01.03| Q85. Maximal Rectangle
-|2021.01.03| Q907. Sum of Subarray Minimums
-|2021.01.03| Q997. Find the Town Judge
-|2021.01.02| Q1010. Pairs of Songs With Total Durations Divisible by 60
+|2022.06.01| Q1480. Running Sum of 1d Array
+|2022.05.31| Q1461. Check If a String Contains All Binary Codes of Size K
+|2022.05.29| Q268. Missing Number
+|2022.05.28| Q1342. Number of Steps to Reduce a Number to Zero
+|2022.05.17| Q1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+|2022.05.16| Q1302. Deepest Leaves Sum
+|2022.05.11| Q1641. Count Sorted Vowel Strings
+|2022.05.10| Q216. Combination Sum III
+|2022.05.07| Q1209. Remove All Adjacent Duplicates in String II
+|2022.05.06| Q225. Implement Stack using Queues
+|2022.05.05| Q1679. Max Number of K-Sum Pairs
+|2022.05.01| Q399. Evaluate Division
+|2022.04.26| Q284. Peeking Iterator
+|2022.04.25| Q1396. Design Underground System
+|2022.04.21| Q99. Recover Binary Search Tree
+|2022.04.21| Q705.Design HashSet
+|2022.04.17| Q897. Increasing Order Search Tree
+|2022.04.15| Q669. Trim a Binary Search Tree
+|2022.04.14| Q700. Search in a Binary Search Tree
+|2022.04.12| Q289. Game of Life
+|2022.04.11| Q682. Baseball Game
+|2022.04.11| Q1260. Shift 2D Grid
+|2022.04.08| Q703. Kth Largest Element in a Stream
+|2022.04.07| Q1721. Swapping Nodes in a Linked List
+|2022.04.07| Q923. 3Sum With Multiplicity
+|2022.03.27| Q1337. The K Weakest Rows in a Matrix
+|2022.03.27| Q1029. Two City Scheduling
+|2022.03.22| Q1663. Smallest String With A Given Numeric Value
+|2022.03.16| Q946. Validate Stack Sequences
+|2022.03.14| Q71. Simplify Path
+|2022.03.14| Q146. LRU Cache
+|2022.03.11| Q61. Rotate List
+|2022.03.07| Q138. Copy List with Random Pointer
+|2022.03.06| Q1359. Count All Valid Pickup and Delivery Options
+|2022.03.05| Q799. Champagne Tower
+|2022.03.05| Q740. Delete and Earn
+|2022.03.02| Q392. Is Subsequence
+|2022.02.27| Q451. Sort Characters By Frequency
+|2022.02.25| Q190. Reverse Bits
+|2022.02.24| Q191. Number of 1 Bits
+|2022.02.21| Q994. Rotting Oranges
+|2022.02.18| Q733. Flood Fill
+|2022.02.16| Q557. Reverse Words in a String III
+|2022.02.15| Q344. Reverse String
+|2022.02.13| Q977. Squares of a Sorted Array
+|2022.02.12| Q278. First Bad Version
+|2022.02.12| Q704. Binary Search
+|2022.02.07| Q230. Kth Smallest Element in a BST
+|2022.02.07| Q653. Two Sum IV - Input is a BST
+|2022.02.07| Q173. Binary Search Tree Iterator
+|2022.01.27| Q450. Delete Node in a BST
+|2022.01.26| Q103. Binary Tree Zigzag Level Order Traversal
+|2022.01.23| Q1823. Find the Winner of the Circular Game
+|2022.01.23| Q1249. Minimum Remove to Make Valid Parentheses
+|2022.01.23| Q225. Implement Stack using Queues
+|2022.01.23| Q25. Reverse Nodes in k-Group
+|2022.01.18| Q187. Repeated DNA Sequences
+|2022.01.18| Q605. Can Place Flowers
+|2022.01.17| Q763. Partition Labels
+|2022.01.17| Q205. Isomorphic Strings
+|2022.01.17| Q290. Word Pattern
+|2022.01.14| Q334. Increasing Triplet Subsequence
+|2022.01.14| Q8. String to Integer (atoi)
+|2022.01.13| Q452. Minimum Number of Arrows to Burst Balloons
+|2022.01.12| Q59. Spiral Matrix II
+|2022.01.12| Q119. Pascal's Triangle II
+|2022.01.12| Q701. Insert into a Binary Search Tree
+|2022.01.11| Q706. Design HashMap
+|2022.01.10| Q1137. N-th Tribonacci Number
+|2022.01.10| Q509. Fibonacci Number
+|2022.01.09| Q720. Longest Word in Dictionary
+|2022.01.09| Q149. Max Points on a Line
+|2022.01.09| Q18. 4Sum
+|2022.01.09| Q803. Bricks Falling When Hit
+|2022.01.08| Q482. License Key Formatting
+|2022.01.08| Q1161. Maximum Level Sum of a Binary Tree
+|2022.01.08| Q1007. Minimum Domino Rotations For Equal Row
+|2022.01.08| Q949. Largest Time for Given Digits
+|2022.01.08| Q1509. Minimum Difference Between Largest and Smallest Value in Three Moves
+|2022.01.07| Q1482. Minimum Number of Days to Make m Bouquets
+|2022.01.07| Q875. Koko Eating Bananas
+|2022.01.07| Q410. Split Array Largest Sum
+|2022.01.07| Q1011. Capacity To Ship Packages Within D Days
+|2022.01.06| Q329. Longest Increasing Path in a Matrix
+|2022.01.06| Q583. Delete Operation for Two Strings
+|2022.01.04| Q131. Palindrome Partitioning
+|2022.01.04| Q1009. Complement of Base 10 Integer
+|2022.01.04| Q673. Number of Longest Increasing Subsequence
+|2022.01.04| Q300. Longest Increasing Subsequence
+|2022.01.03| Q84. Largest Rectangle in Histogram
+|2022.01.03| Q85. Maximal Rectangle
+|2022.01.03| Q907. Sum of Subarray Minimums
+|2022.01.03| Q997. Find the Town Judge
+|2022.01.02| Q1010. Pairs of Songs With Total Durations Divisible by 60
 |2021.12.31| Q1015. Smallest Integer Divisible by K
 |2021.12.31| Q1026. Maximum Difference Between Node and Ancestor
 |2021.12.28| Q337. House Robber III
