@@ -50,6 +50,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2022.06.09| Q1332. Remove Palindromic Subsequences
+|2022.06.08| QQ88. Merge Sorted Array
 |2022.06.03| Q304. Range Sum Query 2D - Immutable
 |2022.06.01| Q1480. Running Sum of 1d Array
 |2022.05.31| Q1461. Check If a String Contains All Binary Codes of Size K
