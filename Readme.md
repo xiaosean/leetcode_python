@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2022.06.12| Q1658. Minimum Operations to Reduce X to Zero
 |2022.06.09| Q1332. Remove Palindromic Subsequences
 |2022.06.08| QQ88. Merge Sorted Array
 |2022.06.03| Q304. Range Sum Query 2D - Immutable
