@@ -50,6 +50,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2022.07.02| Q1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
+|2022.07.01| Q1710. Maximum Units on a Truck
 |2022.06.30| Q462. Minimum Moves to Equal Array Elements II
 |2022.06.27| Q1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
 |2022.06.13| Q1695. Maximum Erasure Value
