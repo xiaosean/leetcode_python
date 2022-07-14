@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2022.07.14| Q235. Lowest Common Ancestor of a Binary Search Tree
 |2022.07.12| Q589. N-ary Tree Preorder Traversal
 |2022.07.10| Q746. Min Cost Climbing Stairs
 |2022.07.09| Q1696. Jump Game VI
