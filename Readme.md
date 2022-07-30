@@ -50,6 +50,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2022.07.28| Q242. Valid Anagram
+|2022.07.20| Q792. Number of Matching Subsequences
 |2022.07.14| Q235. Lowest Common Ancestor of a Binary Search Tree
 |2022.07.12| Q589. N-ary Tree Preorder Traversal
 |2022.07.10| Q746. Min Cost Climbing Stairs
