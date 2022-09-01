@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2022.09.01| Q1448. Count Good Nodes in Binary Tree
 |2022.08.31| Q417. Pacific Atlantic Water Flow
 |2022.07.28| Q242. Valid Anagram
 |2022.07.20| Q792. Number of Matching Subsequences
