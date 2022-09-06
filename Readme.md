@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2022.09.06| Q814. Binary Tree Pruning
 |2022.09.06| Q429. N-ary Tree Level Order Traversal
 |2022.09.01| Q1448. Count Good Nodes in Binary Tree
 |2022.08.31| Q417. Pacific Atlantic Water Flow
