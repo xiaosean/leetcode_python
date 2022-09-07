@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2022.09.08| Q606. Construct String from Binary Tree
 |2022.09.06| Q6. Zigzag Conversion
 |2022.09.06| Q814. Binary Tree Pruning
 |2022.09.06| Q429. N-ary Tree Level Order Traversal
