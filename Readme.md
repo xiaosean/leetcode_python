@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2022.09.15| Q692. Top K Frequent Words
 |2022.09.13| Q299. Bulls and Cows
 |2022.09.13| Q393. UTF-8 Validation
 |2022.09.08| Q606. Construct String from Binary Tree
