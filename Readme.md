@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2022.09.19| Q609. Find Duplicate File in System
 |2022.09.16| Q54. Spiral Matrix
 |2022.09.15| Q1457. Pseudo-Palindromic Paths in a Binary Tree
 |2022.09.15| Q692. Top K Frequent Words
