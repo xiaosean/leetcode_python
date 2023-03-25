@@ -50,6 +50,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2023.03.25| Q2316. Count Unreachable Pairs of Nodes in an Undirected Graph
 |2023.03.24| Q1466. Reorder Routes to Make All Paths Lead to the City Zero
 |2022.12.08| Q947. Most Stones Removed with Same Row or Column
 |2022.12.08| Q872. Leaf-Similar Trees
