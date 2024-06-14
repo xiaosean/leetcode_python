@@ -45,11 +45,15 @@ https://leetcode.com/problemset/top-100-liked-questions/
 > Interesting tree question
  
 
-
-## 目前進度: 95/100
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.06.14| Q2037. Minimum Number of Moves to Seat Everyone
+|2024.06.13| Q17. Letter Combinations of a Phone Number
+|2024.06.13| Q211. Design Add and Search Words Data Structure
+|2024.06.13| Q208. Implement Trie (Prefix Tree)
+|2024.06.13| Q433. Minimum Genetic Mutation
+|2024.06.13| Q75. Sort Colors
 |2023.03.25| Q2316. Count Unreachable Pairs of Nodes in an Undirected Graph
 |2023.03.24| Q1466. Reorder Routes to Make All Paths Lead to the City Zero
 |2022.12.08| Q947. Most Stones Removed with Same Row or Column
