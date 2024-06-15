@@ -48,6 +48,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.06.15| Q721. Accounts Merge
 |2024.06.15| Q945. Minimum Increment to Make Array Unique
 |2024.06.14| Q2037. Minimum Number of Moves to Seat Everyone
 |2024.06.13| Q17. Letter Combinations of a Phone Number
