@@ -48,6 +48,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.06.15| Q684. Redundant Connection(Union find)
 |2024.06.15| Q502. IPO
 |2024.06.15| Q721. Accounts Merge
 |2024.06.15| Q945. Minimum Increment to Make Array Unique
