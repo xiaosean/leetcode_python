@@ -48,6 +48,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.06.21| Q1052. Grumpy Bookstore Owner
 |2024.06.20| Q1552. Magnetic Force Between Two Balls
 |2024.06.19| Q826. Most Profit Assigning Work
 |2024.06.19| Q918. Maximum Sum Circular Subarray
