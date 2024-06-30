@@ -48,6 +48,8 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.06.30| Q1579. Remove Max Number of Edges to Keep Graph Fully Traversable
+|2024.06.30| Q1382. Balance a Binary Search Tree
 |2024.06.29| Q1791. Find Center of Star Graph
 |2024.06.29| Q2285. Maximum Total Importance of Roads
 |2024.06.29| Q2192. All Ancestors of a Node in a Directed Acyclic Graph
