@@ -48,6 +48,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.07.04| Q2181. Merge Nodes in Between Zeros
 |2024.07.02| Q427. Construct Quad Tree
 |2024.07.01| Q1550. Three Consecutive Odds
 |2024.06.30| Q1579. Remove Max Number of Edges to Keep Graph Fully Traversable
