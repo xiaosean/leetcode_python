@@ -48,6 +48,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.07.22| Q69. Sqrt(x)
 |2024.07.12| Q1190. Reverse Substrings Between Each Pair of Parentheses
 |2024.07.10| Q1701. Average Waiting Time
 |2024.07.08| Q1518. Water Bottles
