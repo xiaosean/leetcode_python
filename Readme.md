@@ -48,6 +48,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.07.23| Q1636. Sort Array by Increasing Frequency
 |2024.07.22| Q2418. Sort the People
 |2024.07.22| Q39. Combination Sum
 |2024.07.22| Q69. Sqrt(x)
