@@ -48,6 +48,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.07.30| Q1395. Count Number of Teams
 |2024.07.28| Q2045. Second Minimum Time to Reach Destination
 |2024.07.27| Q2976. Minimum Cost to Convert String I
 |2024.07.27| Q1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
