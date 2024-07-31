@@ -48,6 +48,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.08.01| Q1105. Filling Bookcase Shelves
 |2024.07.31| Q1653. Minimum Deletions to Make String Balanced
 |2024.07.30| Q1395. Count Number of Teams
 |2024.07.28| Q2045. Second Minimum Time to Reach Destination
