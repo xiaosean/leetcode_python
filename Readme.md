@@ -48,6 +48,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.08.02| Q2134. Minimum Swaps to Group All 1's Together II
 |2024.08.02| Q2678. Number of Senior Citizens
 |2024.08.01| Q1105. Filling Bookcase Shelves
 |2024.07.31| Q1653. Minimum Deletions to Make String Balanced
