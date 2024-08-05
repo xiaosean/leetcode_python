@@ -48,6 +48,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.08.05| Q2053. Kth Distinct String in an Array
 |2024.08.04| Q1508. Range Sum of Sorted Subarray Sums
 |2024.08.04| Q1460. Make Two Arrays Equal by Reversing Subarrays
 |2024.08.02| Q2134. Minimum Swaps to Group All 1's Together II
