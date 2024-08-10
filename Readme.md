@@ -48,6 +48,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.08.10| Q959. Regions Cut By Slashes
 |2024.08.09| Q840. Magic Squares In Grid
 |2024.08.09| Q885. Spiral Matrix III
 |2024.08.06| Q3016. Minimum Number of Pushes to Type Word II
