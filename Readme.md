@@ -48,6 +48,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.08.19| Q264. Ugly Number II
 |2024.08.17| Q624. Maximum Distance in Arrays
 |2024.08.13| Q703. Kth Largest Element in a Stream
 |2024.08.10| Q959. Regions Cut By Slashes
