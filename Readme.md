@@ -48,6 +48,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.08.27| Q1514. Path with Maximum Probability
 |2024.08.25| Q145. Binary Tree Postorder Traversal
 |2024.08.19| Q1937. Maximum Number of Points with Cost
 |2024.08.19| Q264. Ugly Number II
