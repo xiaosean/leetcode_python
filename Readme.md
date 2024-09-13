@@ -48,6 +48,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.09.13| Q1310. XOR Queries of a Subarray
 |2024.09.13| Q1684. Count the Number of Consistent Strings
 |2024.09.08| Q853. Car Fleet
 |2024.09.07| Q215. Kth Largest Element in an Array(Quick Sort)
