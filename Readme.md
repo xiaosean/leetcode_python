@@ -48,6 +48,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.09.16| Q539. Minimum Time Difference
 |2024.09.16| Q1371. Find the Longest Substring Containing Vowels in Even Counts
 |2024.09.15| Q2419. Longest Subarray With Maximum Bitwise AND
 |2024.09.13| Q1310. XOR Queries of a Subarray
