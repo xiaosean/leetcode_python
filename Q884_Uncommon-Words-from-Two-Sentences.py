@@ -1,10 +1,11 @@
-from collections import Counter
-from itertools import chain
 class Solution:
-    def uncommonFromSentences(self, A: str, B: str) -> List[str]:
-        counter_sen = Counter(chain(A.split(), B.split()))
-        uncommon_words = []
-        for key, value in counter_sen.items():
-            if value == 1:
-                uncommon_words += [key]
-        return uncommon_words
+    def uncommonFromSentences(self, s1: str, s2: str) -> List[str]:
+        c1, c2 = Counter(s1.split()), Counter(s2.split())
+        res = []
+        for k in list(c1.keys()) + list(c2.keys()):
+            if k in c1 and k in c2:
+                continue
+            for c in [c1, c2]:
+                if k in c and c[k] == 1:
+                    res += [k]
+        return res
