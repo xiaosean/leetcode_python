@@ -48,6 +48,7 @@ https://leetcode.com/problemset/top-100-liked-questions/
 # Log:
 | Date | Changes |
 |------|----------------------------|
+|2024.09.24| Q3043. Find the Length of the Longest Common Prefix
 |2024.09.19| Q179. Largest Number
 |2024.09.17| Q884. Uncommon Words from Two Sentences
 |2024.09.16| Q539. Minimum Time Difference
